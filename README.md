@@ -1,4 +1,10 @@
-### Hi there 👋
+### Oiiii é marcella ✨
+
+Vou fazer os projetos do alura aqui. 
+
+## Entre em contato comigo
+
+	00001101961430sp@al.educacao.sp.gov.br
 
 <!--
 **MahSambinelli/MahSambinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
